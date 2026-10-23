@@ -3,7 +3,7 @@
 **Effective Date:** October 20, 2026  
 **Last Updated:** October 20, 2026  
 
-Welcome to **Tee the Fox: Cozy Puzzle Adventures** ("we," "our," or "us"). We are deeply committed to protecting the privacy of our players, especially young children and families. 
+Welcome to **Tee the Fox: Cozy Puzzle Adventures**. We are deeply committed to protecting the privacy of our players, especially young children and families. 
 
 This Privacy Policy explains how our mobile application handles user information in full compliance with the Children’s Online Privacy Protection Act (**COPPA**), the General Data Protection Regulation (**GDPR**), and Google Play’s **Families Policy**.
 
@@ -12,7 +12,7 @@ This Privacy Policy explains how our mobile application handles user information
 ## 1. No Personal Data Collection
 **Tee the Fox** is designed as a completely offline, safe, and family-friendly puzzle game. 
 
-* **We DO NOT collect, store, or share any personal identifiable information (PII)** such as names, email addresses, phone numbers, location data, or device identifiers.
+* **We DO NOT collect, store, or share any personally identifiable information (PII)** such as names, email addresses, phone numbers, location data, or device identifiers.
 * **We DO NOT require any user registration or account creation.**
 
 ---
